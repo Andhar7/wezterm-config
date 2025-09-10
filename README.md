@@ -1,4 +1,4 @@
-
+https://www.josean.com/posts/how-to-setup-wezterm-terminal
 How To Create An Amazing Terminal Setup With Wezterm
 Published: July 21, 2024
 Wezterm is an awesome, fast terminal emulator written in Rust with great features that has worked great for me as an alternative to iTerm2 & Alacritty. Let’s set it up!
